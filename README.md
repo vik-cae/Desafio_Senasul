@@ -69,10 +69,7 @@ interativo.
     ├── script.js
     │
     ├── JS
-    │   └── geometria.js
-    │
-    └── dados
-        └── exemplo.geojson
+        └── geometria.js
 
 ## Descrição dos Arquivos
 
